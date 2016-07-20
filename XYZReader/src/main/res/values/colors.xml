@@ -16,6 +16,10 @@
 -->
 
 <resources>
+    <color name="red_500">#F44336</color>
+    <color name="red_700">#D32F2F</color>
+    <color name="yellow_A100">#FFFF8D</color>
+
     <color name="photo_placeholder">#ccc</color>
 
     <color name="theme_primary">#04561A</color>
